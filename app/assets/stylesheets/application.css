@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+td a:hover, a:focus {
+    color: #000000 !important;
+    background: #ffffff !important;
+    text-decoration: none !important;
+}
+
+.action-btn {
+    margin: 15px;
+}
+
+.action-btn a {
+    color: #ffffff;
+}
+
+.page-wrapper {
+    margin: 20px;
+    padding: 0 30px;
+}
